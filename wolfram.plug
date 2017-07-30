@@ -1,0 +1,6 @@
+[Core]
+name = Wolfram
+module = wolfram
+
+[Documentation]
+description = Query Wolfram Alpha, the Computational Knowledge Engine
